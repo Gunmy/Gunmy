@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Gunmy
-- 👀 I’m interested in your mother
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me no
+Test
 
 <!---
 Gunmy/Gunmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
